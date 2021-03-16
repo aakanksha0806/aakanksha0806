@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there!
 
 <!--
 **aakanksha0806/aakanksha0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Aakanksha. Currently, I am a student of VIT and I am persuing BTech in computer science and engineering.
+
+Some random facts about me:
+
+I know Python, HTML, CSS and basic JavaScript. I am learning C++ right now.
+I enjoy reading books.
+Playing badminton or chess are some other of my hobbies.
