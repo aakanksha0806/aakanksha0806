@@ -20,5 +20,4 @@ I am Aakanksha. Currently, I am a student of VIT and I am persuing BTech in comp
 Some random facts about me:
 
 I know Python, HTML, CSS and basic JavaScript. I am learning C++ right now.
-I enjoy reading books.
-Playing badminton or chess are some other of my hobbies.
+
