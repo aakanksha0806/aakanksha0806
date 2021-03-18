@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 I am Aakanksha. Currently, I am a student of VIT and I am persuing BTech in computer science and engineering.
 
-Some random facts about me:
 
 I know Python, HTML, CSS and basic JavaScript. I am learning C++ right now.
 
