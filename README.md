@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Aakanksha. Currently, I am a student of VIT and I am persuing BTech in computer science and engineering.
+I am Aakanksha Priya. I am a 2nd year student from VIT, Bhopal. I am persuing BTech in Computer Science and Engineering with specialization in Cyber Security and Digital Forensics.
+I'm passionate about web development. I am also interested in cybersecurity and currently I am learning about web application security. 
 
-
-I know Python, HTML, CSS and basic JavaScript. I am learning C++ right now.
 
