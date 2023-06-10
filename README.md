@@ -11,23 +11,34 @@ I am currently enrolled in a BTech program in Computer Science and Engineering, 
 🙌 In my free time, I enjoy diving into the world of literature, immersing myself in captivating stories, and discussing thought-provoking ideas with fellow book enthusiasts.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aakanksha-) 
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=an0nym0usraven&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=an0nym0usraven&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=an0nym0usraven&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+### Frontend  
+<div align="center">  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=an0nym0usraven&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</td><td valign="top" width="33%">
 
----
-[![](https://visitcount.itsvg.in/api?id=an0nym0usraven&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### Backend  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
 
 
 
