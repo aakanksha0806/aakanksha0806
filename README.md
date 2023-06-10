@@ -2,12 +2,12 @@
 
 I am currently enrolled in a BTech program in Computer Science and Engineering, specializing in Cyber Security and Digital Forensics. My passion lies in the realm of data analytics, where I am eager to explore its applications and potential. While maintaining a strong interest in cybersecurity, I am actively expanding my knowledge and skills in data analytics, particularly in the context of cybersecurity. I am dedicated to understanding how data analysis techniques can be leveraged to detect and respond to threats effectively, as well as uncover insights and patterns that contribute to enhanced security measures.
 
-## 💫 About Me:
+## About Me:
 🔭 I am currently engrossed in engaging Data Analytics projects, where I am leveraging my skills to analyze and derive meaningful insights from complex datasets. I am dedicated to honing my analytical abilities and employing various tools and techniques to uncover valuable patterns and trends that drive informed decision-making.<br>
--👯 I’m looking to collaborate on <br>
+
 🤝 I am currently seeking guidance and support in finding internship opportunities that align with my interests and career goals. I am eager to gain practical experience and apply my skills in a professional setting.<br>
 🌱 I am currently immersing myself in the world of Amazon Web Services (AWS) and actively expanding my knowledge and skills in cloud computing and infrastructure management.<br>
--💬 Ask me about<br>
+
 🙌 In my free time, I enjoy diving into the world of literature, immersing myself in captivating stories, and discussing thought-provoking ideas with fellow book enthusiasts.
 
 
