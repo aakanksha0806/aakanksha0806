@@ -11,6 +11,11 @@ I am currently enrolled in a BTech program in Computer Science and Engineering, 
 
 🙌 In my free time, I enjoy diving into the world of literature, immersing myself in captivating stories, and discussing thought-provoking ideas with fellow book enthusiasts.
 
+<br><br>
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width = "300" align="center"/>
+</p>
+<br><br>
 
 ## Languages and Tools:
 <!-- <h3 align="left">Languages and Tools:</h3> -->
